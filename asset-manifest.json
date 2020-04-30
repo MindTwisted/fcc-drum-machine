@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://mindtwisted.github.io/fcc-drum-machine/static/css/main.217870f3.chunk.css",
+    "main.js": "https://mindtwisted.github.io/fcc-drum-machine/static/js/main.543eb5f2.chunk.js",
+    "main.js.map": "https://mindtwisted.github.io/fcc-drum-machine/static/js/main.543eb5f2.chunk.js.map",
+    "runtime-main.js": "https://mindtwisted.github.io/fcc-drum-machine/static/js/runtime-main.3fe37c32.js",
+    "runtime-main.js.map": "https://mindtwisted.github.io/fcc-drum-machine/static/js/runtime-main.3fe37c32.js.map",
+    "static/css/2.cd1899df.chunk.css": "https://mindtwisted.github.io/fcc-drum-machine/static/css/2.cd1899df.chunk.css",
+    "static/js/2.06789438.chunk.js": "https://mindtwisted.github.io/fcc-drum-machine/static/js/2.06789438.chunk.js",
+    "static/js/2.06789438.chunk.js.map": "https://mindtwisted.github.io/fcc-drum-machine/static/js/2.06789438.chunk.js.map",
+    "index.html": "https://mindtwisted.github.io/fcc-drum-machine/index.html",
+    "precache-manifest.0d1050f3ee188fd38e3f19b16bc6f727.js": "https://mindtwisted.github.io/fcc-drum-machine/precache-manifest.0d1050f3ee188fd38e3f19b16bc6f727.js",
+    "service-worker.js": "https://mindtwisted.github.io/fcc-drum-machine/service-worker.js",
+    "static/css/2.cd1899df.chunk.css.map": "https://mindtwisted.github.io/fcc-drum-machine/static/css/2.cd1899df.chunk.css.map",
+    "static/css/main.217870f3.chunk.css.map": "https://mindtwisted.github.io/fcc-drum-machine/static/css/main.217870f3.chunk.css.map",
+    "static/js/2.06789438.chunk.js.LICENSE.txt": "https://mindtwisted.github.io/fcc-drum-machine/static/js/2.06789438.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fe37c32.js",
+    "static/css/2.cd1899df.chunk.css",
+    "static/js/2.06789438.chunk.js",
+    "static/css/main.217870f3.chunk.css",
+    "static/js/main.543eb5f2.chunk.js"
+  ]
+}
