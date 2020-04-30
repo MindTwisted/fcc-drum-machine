@@ -1,0 +1,18 @@
+.DrumMachine__buttons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.DrumMachine__button {
+    margin-bottom: 1rem;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.DrumMachine__volume {
+    margin: 2rem 0;
+}
